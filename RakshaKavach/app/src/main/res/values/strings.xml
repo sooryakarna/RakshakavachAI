@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RakshaKavach</string>
+    <string name="login_title">Worker Login</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_worker_id">Worker ID</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="task_selection_title">Safety Modules</string>
+    <string name="module_quiz">Daily Safety Quiz</string>
+    <string name="module_incident">Incident Report</string>
+    <string name="module_ppe">PPE Checklist</string>
+    <string name="module_risk">Risk Alerts</string>
+</resources>
